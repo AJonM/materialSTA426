@@ -21,18 +21,18 @@ tba
 | Date  | Lecturer | Topic | Exercise | JC1 | JC2 |
 | --- | --- | --- | --- | --- | --- |
 | 14.09.2026  | Mark+Hubert | admin; mol. bio. basics | quarto; git(hub) | | |
-| 21.09.2026  | Mark | interactive technology/statistics session  | group exercise: technology PR | | |
+| 21.09.2026  | Mark | hands-on session #1: benchmarking | group exercise: Omnibenchmark | | |
 | 28.09.2026  | Hubert | NGS intro; exploratory data analysis | EDA in R | | |
 | 05.10.2026  | Hubert | mapping  | Rsubread | | |
 | 12.10.2026  | Mark  | limma + friends | linear model simulation + design matrices | | |
 | 19.10.2026  | Hubert | RNA-seq quantification | RSEM  | X | X | 
 | 26.10.2026  | Mark | edgeR+friends 1 | basic edgeR/voom | X | X |
 | 02.11.2026  | Mark | edgeR+friends 2 | advanced edgeR/voom | X | X |
-| 09.11.2026  | Mark | hands-on session #1: RNA-seq |  FASTQC/Salmon/etc. | X | X |
+| 09.11.2026  | Mark | hands-on session #2: RNA-seq |  FASTQC/Salmon/etc. | X | X |
 | 16.11.2026  | Hubert | single-cell 1: preprocessing, dim. red., clustering | clustering | X | X |
-23.11.2026  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
-| 30.12.2026  | Mark | spatial omics 1 | spatial statistics | X | X  |
-| 07.12.2026  | Pierre-Luc | hands-on session #2: single-cell RNA-seq | full scRNA-seq pipeline | X | X |
+| 23.11.2026  | Mark | single-cell 2: clustering, marker gene DE | marker gene DE | X | X |
+| 30.11.2026  | Mark | spatial omics 1 | spatial statistics | X | X  |
+| 07.12.2026  | tba | hands-on session #3: single-cell RNA-seq | full scRNA-seq pipeline | X | X |
 | 14.12.2026  | Mark | spatial omics 2 | structures, DSP | X | X |
 
 
